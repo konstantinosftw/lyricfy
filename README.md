@@ -2,7 +2,7 @@
 Chrome extension that automatically pulls lyrics in Spotify web player.
 
 # Caveat
-This extention grabs the lyrics through web scraping, which is against most websites' TOS. Thus, it should not be used in production and this is the reason it is not uploaded to the Chrome Store.
+This extention grabs the lyrics through web scraping, which is against most websites' TOS. Thus, it should not be used in production, which is why it is not uploaded on the Chrome Store.
 
 # How to install
 
